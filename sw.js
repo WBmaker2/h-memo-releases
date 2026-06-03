@@ -1,4 +1,4 @@
-const CACHE_NAME = "h-memo-web-v1";
+const CACHE_NAME = "h-memo-web-v2";
 
 const PRECACHED_PATHS = [
   "./",
